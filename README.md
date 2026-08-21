@@ -14,7 +14,6 @@ Sponsored by POLY and I&EC divisions of American Chemical Society
 # Digital: Tue 3:00 PM-6:00 PM (9) 
 
 
-<img width="960" height="540" alt="acs 26fall" src="https://github.com/user-attachments/assets/ed60d4d4-c969-4a12-94ef-c698c3476e1c" />
 
 ## (3 In-Person Sessions, 1 Digital Session, 1 Poster Session)
 ## A Session Chairs: Naresh Osti, Weijian Hua, Jiayu Peng, Panagiotis Christakopoulos
