@@ -6,7 +6,7 @@ Sponsored by POLY and I&EC divisions of American Chemical Society
 
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
-# Session Overview
+# Session [Overview](https://acs.digitellinc.com/live/37/page/1374?speakers=386313)
 # Oral: Mon 8:00 AM-12:00 PM, W184bc (12) McCormick Place Convention Center
 # Oral: Mon 2:00 PM-6:00 PM, W184bc (12) McCormick Place Convention Center
 # Oral: Tue 8:00 AM-11:40 PM, W184a (11) McCormick Place Convention Center
