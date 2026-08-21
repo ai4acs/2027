@@ -3,9 +3,16 @@
 ### [2026](https://www.acs.org/events/fall.html) Aug 24-25, Chicago &Virtual
 
 Sponsored by POLY and I&EC divisions of American Chemical Society
+Oral: Mon 8:00 AM-12:00 PM, W184bc (12) 
+Oral: Mon 2:00 PM-6:00 PM, W184bc (12) 
+ Oral: Tue 8:00 AM-11:40 PM, W184a (11)
+Poster: Tue 12:00 PM-2:00 PM, Hall F2 (3) 
+Digital: Tue 3:00 PM-6:00 PM (9) 
+
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
 # Session Overview
+
 ## (3 In-Person Sessions, 1 Digital Session, 1 Poster Session)
 ## A Session Chairs: Naresh Osti, Weijian Hua, Jiayu Peng, Panagiotis Christakopoulos
 ## B Session Chairs: Serena Chen, Weijian Hua, Yuanwei Li, Panagiotis Christakopoulos 
