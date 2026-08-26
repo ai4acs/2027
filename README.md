@@ -11,5 +11,5 @@ POLY (4), I&EC (2), CELL (1) Divisions of American Chemical Society
 # Session Overview  
 7 HDS (half day sessions)
 
-## [https://bit.ly/acs-ai](https://bit.ly/acs-ai)
+## [https://bit.ly/ai4acs](https://bit.ly/ai4acs)
  
