@@ -1,6 +1,6 @@
 # <font color='green'> The 7th AI ACS Symposium
 ## <font color='blue'> AI/ML in Chemistry and Polymers: Data, Circularity, and Agentic Systems
-## https://bit.ly/acs-ai
+## https://ai4acs.github.io/2027
 ### [2027](https://www.acs.org/events/spring.html) March 21-25, New Orleans 
 
 Sponsored by 
