@@ -5,7 +5,7 @@
 
 Sponsored by 
 POLY (4), I&EC (2), CELL (1) Divisions of American Chemical Society
-# >>Submit your abstract by 9/28/2026 [here](https://callforabstracts.acs.org/acsspring2027/I&EC)!!!
+# <font color='red'> >>Submit your abstract by 9/28/2026 [here](https://callforabstracts.acs.org/acsspring2027/I&EC)!!!
 
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
