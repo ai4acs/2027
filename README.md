@@ -11,6 +11,7 @@ POLY (4), I&EC (2), CELL (1) Divisions of American Chemical Society
 
 # Session Overview  
 7 HDS (half day sessions)
+
 Session Chairs: Jiayu Peng, Panagiotis Christakopoulos, Yuanwei Li,  Weijian Hua
 ## [https://bit.ly/ai4acs](https://bit.ly/ai4acs)
  
